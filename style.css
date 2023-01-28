@@ -1,3 +1,23 @@
+Skip to content
+Sign up
+martypdx
+/
+name-tag-jan-2023
+Public
+generated from alchemycodelab/dev-101-template
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+More
+name-tag-jan-2023/style.css
+@martypdx
+martypdx basic name tag design
+ History
+ 1 contributor
+58 lines (49 sloc)  1.05 KB
 body {
     margin: 0;
     font-family: Corbel, 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans',
@@ -28,3 +48,46 @@ header .logo {
 main {
     padding: 20px;
 }
+
+.name-tag {
+    background: #de3d3d;
+    color: white;
+    width: 450px;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+
+    text-align: center;
+}
+
+.greeting {
+    text-transform: uppercase;
+    font-size: 4em;
+    font-weight: bold;
+    margin: 0;
+}
+
+.name-display {
+    background: white;
+    color: black;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-family: cursive;
+    font-size: 2em;
+}
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+name-tag-jan-2023/style.css at main · alchemycodelab/name-tag-jan-2023 · GitHub
