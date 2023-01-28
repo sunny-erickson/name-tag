@@ -5,13 +5,7 @@ martypdx
 name-tag-jan-2023
 Public
 generated from alchemycodelab/dev-101-template
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-More
+
 name-tag-jan-2023/style.css
 @martypdx
 martypdx basic name tag design
@@ -69,12 +63,13 @@ main {
 }
 
 .name-display {
-    background: white;
-    color: black;
+    background: black;
+    color: white;
     padding-top: 25px;
     padding-bottom: 25px;
-    font-family: cursive;
-    font-size: 2em;
+    font-family:cursive;
+    font-size: 3em;
+
 }
 Footer
 © 2023 GitHub, Inc.
