@@ -6,3 +6,4 @@ updateBtn.addEventListener('click', () => {
     const nameElem = document.getElementById('name');
     nameElem.textContent = nameInput.value;
 });
+
