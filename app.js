@@ -18,7 +18,7 @@ const nameInput = document.getElementById('input');
 const nameElem = document.getElementById('name');
       nameElem.textContent=nameInput.value;
 
-      
+
 })
 
 
