@@ -12,12 +12,13 @@ function sayHello(name){
 sayHello('ryan');
 
 const updateBtn = document.getElementById('update');
-updateBtn.addEventListener('click', () => {
-    const nameInput = document.getElementById('input');
-    console.log('I am clicking on the button');
+      updateBtn.addEventListener('click', () => {
+const nameInput = document.getElementById('input');
+      console.log('I am clicking on the button');
 const nameElem = document.getElementById('name');
-nameElem.textContent=nameInput.value;
+      nameElem.textContent=nameInput.value;
 
+      
 })
 
 
