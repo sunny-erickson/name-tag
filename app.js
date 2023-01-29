@@ -1,12 +1,13 @@
 // grab DOM elements
 
-// set event listeners
+//cleaned up
 function sayHello(name){
     console.log(`Hello ${name}`);
     console.log('Its a beautiful day');
-    console.log('How goes it?');
+    console.log('How\'s it goin?');
 }
 sayHello('ryan');
+sayHello('Sunny');
 
 const updateBtn = document.getElementById('update');
     updateBtn.addEventListener('click', () => {
